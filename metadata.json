@@ -1,0 +1,6 @@
+{
+  "name": "Medieval Realms: Multi-Species Dynasty Life Simulator",
+  "description": "A comprehensive medieval dynasty and multi-realm life simulator featuring interactive provincial barracks, low-born soldier knighting to nobility, troop promotions, multi-species realms, family trees, court artifacts, wars, and feudal governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
